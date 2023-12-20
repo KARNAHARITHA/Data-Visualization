@@ -7,15 +7,16 @@ Tuberculosis (TB) is a persistent global health challenge that has significantly
 Global Impact of Tuberculosis
 According to the World Health Organization (WHO), TB is among the top ten causes of death worldwide, ranking above diseases such as HIV/AIDS. The global burden of TB is substantial, with millions of new cases reported each year. The disease particularly affects vulnerable populations, including those with compromised immune systems.
 The United Nations (UN) recognizes the severity of the TB epidemic and has taken proactive measures to address it. The UN's Sustainable Development Goals (SDGs) include a specific target to end the TB epidemic by 2030, emphasizing the importance of global collaboration to eradicate this disease. The World Health Assembly has endorsed the WHO's End TB Strategy, highlighting the need for intensified research and innovation to achieve this goal.
-Personal Motivation for Research
+
+### Personal Motivation for Research
 The motivation behind choosing TB as the focus of this research stems from personal experiences. Witnessing close friends being diagnosed with TB sparked a deep interest in understanding the complexities of the disease beyond the clinical diagnosis. This research aims to delve into the various factors influencing TB, going beyond medical perspectives to explore the broader societal, nutritional, and healthcare dimensions.
-Ambitiousness of the project:
+### Ambitiousness of the project:
 This research project embarks on a comprehensive exploration of Tuberculosis (TB) and its intricate connections with various global health indicators. Our ambition is to delve into diverse dimensions of the TB epidemic, encompassing a multitude of factors that extend beyond traditional medical perspectives. The extensive scope of this project reflects our commitment to unraveling the complexity of TB and contributing valuable insights to the broader discourse on global health.
 Data Sources
 To undertake this ambitious endeavor, we have meticulously gathered data from reputable sources, including the World Health Organization (WHO), World Bank, and Our World in Data because we are working on data across the world. Leveraging these rich datasets allows us to conduct a thorough analysis and draw meaningful conclusions that encompass global, regional, and local perspectives.
 The ambitiousness of this project lies in its commitment to address a diverse range of topics, contributing not only to our understanding of TB but also offering valuable insights for policymakers, healthcare professionals, and researchers worldwide.
 By combining data from prominent global organizations, our research aims to provide a holistic perspective on TB, transcending geographical boundaries and societal contexts. This ambitious approach reflects our dedication to unraveling the complexities of TB and its interplay with global health indicators, ultimately contributing to the ongoing efforts to combat this pervasive infectious disease.
-Research questions:
+### Research questions:
 1. How does protein intake impact the incidence and mortality of tuberculosis?
 2. What is the combined impact of protein and fat intake on the prevalence and mortality of tuberculosis?
 3. How has vaccine coverage across the world affected the mortality rates associated with tuberculosis?
@@ -100,7 +101,7 @@ Answer: Our synthesis of visualizations underscores the intricate interplay of n
 The complexities highlight the need for multifaceted strategies to address the global burden of TB.
 8. How have the death rates from Tuberculosis (TB) changed over a specific period in a set of countries (China, India, Pakistan, Bangladesh, Philippines, Indonesia, Nigeria, Democratic Republic of Congo)?
 Answer: The analysis focused on a specific set of countries over a defined period, unraveling nuanced patterns in the temporal evolution of TB death rates. China demonstrated substantial improvement, showcasing a consistent decline in TB mortality rates. India, while experiencing an overall decline, faced persistent challenges, reflecting the complex landscape of TB dynamics. Pakistan and Bangladesh exhibited varied trajectories, suggesting unique contextual factors influencing TB outcomes. The Philippines showcased positive trends, aligning with successful interventions. Indonesia, Nigeria, and the Democratic Republic of Congo faced challenges with varying degrees of progress. This exploration prompts further investigation into the factors driving diverse trends, facilitating the identification of effective interventions and targeted strategies to address TB effectively in each context.
-Additional research questions I look forward to in solving in the future are:
+#### Additional research questions I look forward to in solving in the future are:
 • What is the impact of emerging infectious diseases, such as the current state of global pandemics, on TB outcomes, and how can integrated healthcare systems effectively manage dual health challenges?
 • How does the genetic susceptibility of populations interact with environmental factors to shape the risk profile for TB, and can personalized medicine approaches be applied to enhance prevention and treatment?
 • What role does the digital divide play in accessing healthcare information and services related to TB, and how can innovative technologies be leveraged to bridge gaps and improve health literacy?
