@@ -1,7 +1,8 @@
 # Data-Visualization
 ## From Data to Insight: Navigating Tuberculosis and Global Health Trends
 
-INTRODUCTION:
+### INTRODUCTION:
+
 Tuberculosis (TB) is a persistent global health challenge that has significantly impacted populations worldwide for centuries. Caused by the bacterium Mycobacterium tuberculosis, the disease primarily affects the lungs but can also affect other parts of the body. TB spreads through the air when an infected person coughs or sneezes, making it highly contagious. Despite advancements in medical science, TB remains a leading cause of death globally.
 Global Impact of Tuberculosis
 According to the World Health Organization (WHO), TB is among the top ten causes of death worldwide, ranking above diseases such as HIV/AIDS. The global burden of TB is substantial, with millions of new cases reported each year. The disease particularly affects vulnerable populations, including those with compromised immune systems.
@@ -23,8 +24,8 @@ Research questions:
 6. In what ways has food supply across the world over time influenced mortality rates associated with TB?
 7. What is the relation between population size and TB mortality in 2010?
 8. How have the death rates from TB changed over a specific period in a set of countries?
-9. 
-METHODOLOGY:
+
+### METHODOLOGY:
 The selection of data sources was based on the credibility and authenticity of the organizations providing the data. Our World in Data, WHO, and the World Bank are renowned for their commitment to data transparency, accuracy, and global health surveillance.
 This research project relies on a meticulous collection of data from reputable and authentic sources, each chosen for its reliability and relevance to the research questions. The primary datasets were sourced from the following organizations:
 1.Our World in Data – Global Food:
@@ -39,12 +40,11 @@ WHO - Immunization Data supplied essential data on vaccination coverage, specifi
 World Bank - World Population furnished population data for countries worldwide, contributing to the analysis of population dynamics in relation to tuberculosis.
 Tools and Software:
 The analysis and visualization of the datasets were conducted using Tableau, a widely recognized and powerful data visualization tool. Tableau's capabilities facilitated the creation of dynamic and interactive representations, enhancing the clarity of complex relationships within the data.
-ANALYSIS:
+### ANALYSIS:
 Visualization 1:Protein Intake on TB Child Mortality
 To assess the relationship between protein intake and tuberculosis (TB) mortality in children under 5 years, we conducted a detailed analysis spanning from 1990 to the present. The focus was on understanding how changes in protein intake correlate with the incidence of TB-related mortality in this vulnerable age group.
 We created a calculated field “Protein to Fat Ratio” with the below formula:
-•
-[Food supply (Protein g per capita per day)] / [Food supply (Fat g per capita per day)]
+• [Food supply (Protein g per capita per day)] / [Food supply (Fat g per capita per day)]
 The analysis reveals a consistent and notable decline in TB-related mortality among children under 5 years over the examined period. This positive trend aligns
 with global efforts to improve healthcare infrastructure and enhance TB prevention and treatment programs.
 Visualization 2: Protein to Fat Intake on TB Adult(15-49) Mortality
@@ -81,7 +81,7 @@ metrics: vaccine coverage, represented by a color gradient, and healthcare expen
 Dashboards:
 The dashboard presents a comprehensive overview of key factors influencing Tuberculosis (TB) outcomes globally. The protein intake visualization highlights a steady decline in TB mortality rates with increased protein consumption, emphasizing the potential role of nutrition in combating the disease. Together, these visualizations underscore the intricate interplay of nutritional factors in shaping TB outcomes, providing valuable insights for public health interventions on a global scale.
 The dashboard provides a comprehensive perspective on the multifaceted dynamics influencing Tuberculosis (TB) outcomes worldwide. Together, these visualizations contribute to a comprehensive understanding of the interplay between healthcare factors, demographics, and vaccination efforts in shaping the global landscape of TB outcomes.
-CONCLUSION:
+### CONCLUSION:
 1. How does protein intake impact Tuberculosis (TB) mortality rates in children under 5 years?
 Answer: Our analysis reveals a consistent decline in TB mortality rates with an increase in protein intake, suggesting a potential protective effect of adequate protein consumption on the vulnerability of children under 5 to TB.
 2. What is the combined impact of protein and fat intake on TB prevalence and outcomes?
